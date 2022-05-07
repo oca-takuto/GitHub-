@@ -1,5 +1,6 @@
 def main():
     print('Hello Python')
+<<<<<<< HEAD
     print('+--------------------------------------------+')
     for i in range(1,10):
         
@@ -13,4 +14,3 @@ def main():
 
 
 if __name__=='__main__':
-    main()
